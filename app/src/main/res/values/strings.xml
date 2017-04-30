@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CafeAgua</string>
+
+    <array name="opt_main_menu">
+        <item>Cappuccino</item>
+        <item>Latte</item>
+        <item>Macchiato</item>
+        <item>Mocha</item>
+    </array>
+
+</resources>
